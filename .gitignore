@@ -1,0 +1,12 @@
+#ignore all build objects
+Debug
+Release
+*.vcxproj
+*.vcxproj.*
+
+#Visual Studio specifics
+.vs
+
+#Assets that can't be shared
+Textures
+Sound
